@@ -1,5 +1,3 @@
-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
-
 …or create a new repository on the command line
 echo "# test5" >> README.md
 git init
